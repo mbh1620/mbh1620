@@ -10,5 +10,6 @@ Site: [https://www.matthewhaywood.co.uk](https://www.matthewhaywood.co.uk)
 <img src="https://github.com/mbh1620/ARPA-Simulator/blob/master/photos/viewer.png" width="300" height="auto" style=style="padding-left:30px;float:right;display:inline-block">
 </div>
 
-### Telemetry Server and Viewer
+### Telemetry Server and Viewer and Sailing Race Simulator
 <img src="https://github.com/mbh1620/Car-Telemetry-Receive-Server/blob/master/NodeServer/public/screen.gif" width="400" height="auto" style="display:inline-block">
+<img src="https://github.com/mbh1620/sailing_sim/blob/master/sailing.gif" width="400" height="auto" style="display:inline-block">
