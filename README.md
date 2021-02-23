@@ -15,7 +15,9 @@ Site: [https://www.matthewhaywood.co.uk](https://www.matthewhaywood.co.uk)
 <img src="https://github.com/mbh1620/Car-Telemetry-Receive-Server/blob/master/NodeServer/public/screen.gif" width="400" height="auto" style="display:inline-block">
 <img src="https://github.com/mbh1620/Car-Telemetry-Receive-Server/blob/master/NodeServer/public/desktopgif.gif" width="400" height="auto" style="display:inline-block">
 </div>
+
 ### Sailing sim and 3d Renderer in Pygame
+
 <div>
 <img src="https://github.com/mbh1620/sailing_sim/blob/master/sailing.gif" width="400" height="auto" style="display:inline-block;float:right">
 <img src="https://github.com/mbh1620/3d_renderer/blob/main/photos/3d_viewer.gif" width="400" height="auto" style="display:inline-block;float:right">
