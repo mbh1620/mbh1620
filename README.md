@@ -2,6 +2,8 @@
 
 [![mbh1620 GitHub stats](https://github-readme-stats.vercel.app/api?username=mbh1620)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbh1620&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Site: [https://www.matthewhaywood.co.uk](https://www.matthewhaywood.co.uk)
 
 ## Projects
