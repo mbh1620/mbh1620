@@ -18,7 +18,7 @@ Site: [https://www.matthewhaywood.co.uk](https://www.matthewhaywood.co.uk)
 
 ### Telemetry Server and JavaFx Viewer application
 <div>
-<img src="https://github.com/mbh1620/Car-Telemetry-Receive-Server/blob/master/NodeServer/public/screen.gif" width="400" height="auto" style="display:inline-block">
+<img src="https://github.com/mbh1620/Car-Telemetry-Receive-Server/blob/master/NodeServer/public/Screenshot%202021-02-15%20at%2016.21.47.png" width="400" height="auto" style="display:inline-block">
 <img src="https://github.com/mbh1620/Car-Telemetry-Receive-Server/blob/master/NodeServer/public/desktopgif.gif" width="400" height="auto" style="display:inline-block">
 </div>
 
