@@ -10,7 +10,7 @@ Site: [https://www.matthewhaywood.co.uk](https://www.matthewhaywood.co.uk)
 
 ## Projects
 <div>
-<img src="https://github.com/mbh1620/3D-Drone-Simulator/blob/master/photos/drone.gif" width="100%" height="auto" style="display:inline-block;float:right">
+<img src="https://github.com/mbh1620/3D-Drone-Simulator/blob/main/photos/drone.gif" width="100%" height="auto" style="display:inline-block;float:right">
 </div>
 ### 3D Viewer and Auto RADAR plotting Aid
 <div>
